@@ -1,1 +1,3 @@
-document.write("Hello world!");
+<script>
+  document.write("Hello world!");
+</script>
